@@ -84,7 +84,7 @@
 
         combo_tilde {
             bindings = <&kp TILDE>;
-            key-positions = <53 0>;
+            key-positions = <53 0 54>;
         };
     };
 };
