@@ -81,5 +81,10 @@
             bindings = <&bootloader>;
             key-positions = <38 47>;
         };
+
+        combo_tilde {
+            bindings = <&kp TILDE>;
+            key-positions = <53 0>;
+        };
     };
 };
