@@ -86,5 +86,10 @@
             bindings = <&kp TILDE>;
             key-positions = <53 0 54>;
         };
+
+        combo_rgb_toggle {
+            bindings = <&rgb_ug RGB_TOG>;
+            key-positions = <1 2 3>;
+        };
     };
 };
